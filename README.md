@@ -105,6 +105,15 @@ A Python package for downloading and processing OverDrive audiobooks with proper
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
+## Acknowledgments and Credits
+
+This project builds upon and integrates work from several excellent projects:
+
+- [overdrive](https://github.com/chbrown/overdrive) by [chbrown](https://github.com/chbrown) - Original inspiration and base code for ODM file processing and downloading
+- [audiobook_chapters](https://github.com/choc96208/audiobook_chapters) by [choc96208](https://github.com/choc96208) - Chapter extraction methodology from OverDrive MP3 files
+
+These projects provided essential insights and methodologies for handling OverDrive audiobooks and chapter extraction.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
