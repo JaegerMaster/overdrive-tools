@@ -8,7 +8,7 @@ A Python package for downloading and processing OverDrive audiobooks with proper
 - Extract chapters from OverDrive MP3 files
 - Process audiobooks into properly chaptered files
 - Return borrowed books
-- Import processed files to media library (supports beets)
+- Import processed files to media library (supports [beets](https://github.com/Neurrone/beets-audible))
 
 ## Requirements
 
