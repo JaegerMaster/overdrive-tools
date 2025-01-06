@@ -37,6 +37,9 @@ A Python package for downloading and processing OverDrive audiobooks with proper
 
 ## Usage
 
+### Downloading the ODM files
+Firefox Addon: [overdrive-mp3-button](https://github.com/bemehiser/overdrive-mp3-button)
+
 ### Basic Usage
 
 1. Download and process in one step:
